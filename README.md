@@ -1,7 +1,7 @@
 ﻿# Covid-19-Cases-Prediction
 Notes that the dataset can be taken from https://github.com/MoH-Malaysia/covid19-public
 
-In this project, I have taken the data directly using the URL as below:
+In this project, I have taken the data directly using the following URL:
 https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/cases_malaysia.csv
 
  ## Model Architecture
@@ -15,3 +15,6 @@ https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/case
 
  ## Result of Single Step Timeseries Model using LSTM
  ![result](https://github.com/Ruzanaaris/Covid-19-Cases-Prediction/assets/95346773/b257b624-29e3-4f81-889a-5ddb68f94109)
+
+ More improvement of the model can be make in the future since the Mean Absolute Error Prencentage is 
+ not as expected (should be atlease less than 5%).
