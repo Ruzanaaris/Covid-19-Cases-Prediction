@@ -9,10 +9,8 @@ https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/case
  ## Report 
  ![report](https://github.com/Ruzanaaris/Covid-19-Cases-Prediction/assets/95346773/e8d26c13-e7ac-4557-95d3-cdc0f84b791d)
 
-## Result of Single Step Timeseries Model using LSTM
-![result](https://github.com/Ruzanaaris/Covid-19-Cases-Prediction/assets/95346773/b257b624-29e3-4f81-889a-5ddb68f94109)
+ ## Loss Graph
+ ![loss_graph](https://github.com/Ruzanaaris/Covid-19-Cases-Prediction/assets/95346773/c02d5ec2-cc57-4d98-b764-2c24bed91d06)
 
-## Loss Graph
-![loss_graph](https://github.com/Ruzanaaris/Covid-19-Cases-Prediction/assets/95346773/c02d5ec2-cc57-4d98-b764-2c24bed91d06)
-
-
+ ## Result of Single Step Timeseries Model using LSTM
+ ![result](https://github.com/Ruzanaaris/Covid-19-Cases-Prediction/assets/95346773/b257b624-29e3-4f81-889a-5ddb68f94109)
